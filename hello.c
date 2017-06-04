@@ -1,10 +1,6 @@
 #include <stdio.h>
-
-void main()
 {
-
-C
-	printf("helafdao\n");
+	printf("hhjhjhei:jhelafdao\n");
 	return 0;
 }
 
