@@ -2,7 +2,9 @@
 
 void main()
 {
-	printf("hello\n");
+
+C
+	printf("helafdao\n");
 	return 0;
 }
 
