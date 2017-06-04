@@ -1,10 +1,18 @@
-#include <stdio.h>
+A
+A
+B
+B
+B
+#incluae <stdio.h>
 
 void main()
 {
 
 C
-	printf("helafdao\n");
+C
+A
+B
+	printf("hbyababayobo:elafdao\n");
 	return 0;
 }
 
